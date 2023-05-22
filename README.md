@@ -41,5 +41,11 @@ git clone https://github.com/Resch-Gabriel-Z/Support-Vector-Machine-Adventures
 ## Linear SVM
 
 ### Hard-margin
-
+![HM1.png](media%2FHM1.png)
+![HM2.png](media%2FHM2.png)
+![HM3.png](media%2FHM3.png)
+![HM4.png](media%2FHM4.png)
 ### Soft-margin
+![SM1.png](media%2FSM1.png)
+![SM2.png](media%2FSM2.png)
+![SM3.png](media%2FSM3.png)
