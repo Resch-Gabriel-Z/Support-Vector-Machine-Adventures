@@ -14,6 +14,10 @@ various other and better resources available).
 This kind of SVM focuses on creating a linear hyperplane by maximizing a margin between 2 linear separable
 classes.
 
+## Multi-class SVM
+A type of SVM that works on classifying a dataset between more than 2 classes. Usually this is achieved by training
+several binary SVMs and build on top of that a separation.
+
 ## Kernel SVMs
 
 or non-linear SVMs, they use Kernel methods to map a Dataset, which is non-linear
@@ -49,3 +53,11 @@ git clone https://github.com/Resch-Gabriel-Z/Support-Vector-Machine-Adventures
 ![SM1.png](media%2FSM1.png)
 ![SM2.png](media%2FSM2.png)
 ![SM3.png](media%2FSM3.png)
+
+## Multi-Class SVM
+
+### OAA
+![OAA1.png](media%2FOAA1.png)
+![OAA2.png](media%2FOAA2.png)
+![OAA3.png](media%2FOAA3.png)
+![OAA4.png](media%2FOAA4.png)
